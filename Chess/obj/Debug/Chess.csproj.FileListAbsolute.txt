@@ -1,0 +1,6 @@
+F:\University\Alghoritms\Works\CourseWork\4 semestr\Chess\Chess\bin\Debug\Chess.dll
+F:\University\Alghoritms\Works\CourseWork\4 semestr\Chess\Chess\bin\Debug\Chess.pdb
+F:\University\Alghoritms\Works\CourseWork\4 semestr\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+F:\University\Alghoritms\Works\CourseWork\4 semestr\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+F:\University\Alghoritms\Works\CourseWork\4 semestr\Chess\Chess\obj\Debug\Chess.dll
+F:\University\Alghoritms\Works\CourseWork\4 semestr\Chess\Chess\obj\Debug\Chess.pdb
